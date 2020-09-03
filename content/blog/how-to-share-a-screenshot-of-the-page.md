@@ -1,10 +1,18 @@
 ---
-title: Let's go with a different title!
-date: 2020-07-29T09:14:18.856Z
-subtitle: This is a test
-cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
+title: This is a title for a Public Service Announcement
+date: 2020-09-03T10:38:29.581Z
+subtitle: Something something
+cover: /assets/vmc_logo_sam_vectorised1.svg
 tags: technology, javascript
 ---
+This is a public service announcement!
+
+
+
+![This is blobs on a sofa](/assets/3.-talking-on-the-couch.png)
+
+
+
 Below is an adorable blob! They are the best aren't they???
 
 ![](/assets/untitled.png)
@@ -12,8 +20,6 @@ Below is an adorable blob! They are the best aren't they???
 culis at erat pellentesque adipiscing commodo elit at. At varius vel pharetra vel turpis nunc eget lorem. Ultrices in iaculis nunc sed augue. Senectus et netus et malesuada fames ac turpis egestas.
 
 Neque vitae tempus quam pellentesque nec nam aliquam sem. Praesent tristique magna sit amet. Blandit massa enim nec dui nunc. Ultrices vitae auctor eu augue ut lectus arcu bibendum at. Mauris augue neque gravida in fermentum et sollicitudin ac. Arcu risus quis varius quam quisque id diam vel. Tortor aliquam nulla facilisi cras fermentum. Sit amet tellus cras adipiscing. Convallis aenean et tortor at risus viverra adipiscing. Porttitor eget dolor morbi non. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Et leo duis ut diam quam. Accumsan sit amet nulla facilisi. Leo urna molestie at elementum eu facilisis sed odio morbi. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Eros in cursus turpis massa tincidunt dui ut ornare. Vel fringilla est ullamcorper eget nulla facilisi. Nec nam aliquam sem et tortor. Eu consequat ac felis donec.
-
-
 
 ![](/assets/vmc_logo_sam_vectorised1.svg)
 
